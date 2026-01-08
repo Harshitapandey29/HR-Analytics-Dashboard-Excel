@@ -19,7 +19,7 @@
 - Data Visualization & Dashboard Design
 - HR Analytics & Workforce Insights
 
-📌*Key KPIs:**
+📌**Key KPIs:**
 - Total Employees: 50
 - Gender Ratio: Male vs Female
 - Average Performance Rating: 2.6
@@ -56,6 +56,8 @@
 - Business KPI Development
 - Excel Analytics & Visualization
 - Decision-Driven Reporting
+
+----
 
 👩‍💻**Author:**
 Harshita Pandey
