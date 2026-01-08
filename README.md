@@ -1,8 +1,8 @@
 # 📊 HR Analytics Dashboard | Excel
 
 🔍**Overview:**
-  An interactive HR Analytics Dashboard built in Microsoft Excel to analyze employee demographics, performance, salaries, skills, and workforce distribution.
-  This dashboard enables HR teams and management to make data-driven workforce decisions through clear KPIs, filters, and visual.
+An interactive HR Analytics Dashboard built in Microsoft Excel to analyze employee demographics, performance, salaries, skills, and workforce distribution.
+This dashboard enables HR teams and management to make data-driven workforce decisions through clear KPIs, filters, and visual.
   
 ---- 
 
@@ -39,6 +39,7 @@
 
 📈**Dashboard Preview:**
 
+![HR Analytics Dashboard Preview](HR Dashboard.png)
 ----
 
 🧩**Insights Generated:**
