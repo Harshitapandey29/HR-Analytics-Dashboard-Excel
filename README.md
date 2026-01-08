@@ -39,7 +39,7 @@ This dashboard enables HR teams and management to make data-driven workforce dec
 
 📈**Dashboard Preview:**
 
-![HR Analytics Dashboard Preview](HR Dashboard.png)
+![HR Analytics Dashboard Preview](HR-Dashboard.png)
 ----
 
 🧩**Insights Generated:**
