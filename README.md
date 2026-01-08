@@ -39,6 +39,10 @@ The dashboard **updates in real time based on selected filters (Department, Gend
 📈**Dashboard Preview:**
 
 ![HR Analytics Dashboard Preview](HR-Dashboard.png)
+
+🎥**Dashboard Demo (Dynamic View):**
+
+https://github.com/Harshitapandey29/HR-Analytics-Dashboard-Excel/blob/main/Dasboard-demo.mp4
 ----
 
 🧩**Insights Generated:**
