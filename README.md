@@ -1,9 +1,10 @@
 # 📊 HR Analytics Dashboard | Excel
 
 🔍**Overview:**
-  An interactive HR Analytics Dashboard built in **Microsoft Excel** to analyze employee demographics, performance, salaries, skills, and workforce distribution.
+  An interactive HR Analytics Dashboard built in Microsoft Excel to analyze employee demographics, performance, salaries, skills, and workforce distribution.
   This dashboard enables HR teams and management to make data-driven workforce decisions through clear KPIs, filters, and visual.
--- 
+  
+---- 
 
 🎯**Business Objectives:**
 - To analyze employee distribution by department, gender, age, and region
@@ -11,7 +12,8 @@
 - To understand salary allocation across job roles
 - To monitor employment status (Full-time, Part-time, Contract)
 - To identify work location trends (Remote, Branch, Head Office)
---
+
+----
 
 📌**Key KPIs:**
 - Total Employees: 50
@@ -20,7 +22,8 @@
 - Employment Type Breakdown
 - Region-wise Employee Count
 - Total Salary & Role-wise Salary Distribution
---
+  
+----
 
 📈**Dashboard Highlights**
 - 🎯Dynamic Filters – Department & Gender slicers
@@ -31,11 +34,12 @@
 - 🧠Skills Breakdown – Excel, Communication, Design
 - 🕒Leave Tracking – Job role vs leave taken
 - 📌Clean Dark Theme UI – Executive-ready dashboard
---
+  
+----
 
 📈**Dashboard Preview:**
 
---
+----
 
 🧩**Insights Generated:**
 - Workforce is balanced across genders
@@ -43,7 +47,8 @@
 - Central region has the highest employee count
 - Majority workforce prefers branch office & remote work
 - Performance ratings indicate scope for workforce upskilling
---
+
+----
   
 🛠**Tools & Skills Used:**
 - Microsoft Excel (Advanced)
@@ -52,7 +57,8 @@
 - KPI Cards
 - Data Visualization & Dashboard Design
 - HR Analytics & Workforce Insights
---
+
+----
 
 🚀**How to Use:**
 1. Download the Excel file
