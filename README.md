@@ -74,7 +74,3 @@ Harshita Pandey
 Data Analyst | Excel | SQL | Python | Power BI
 
 ⭐ If you found this project valuable, consider starring the repository.
-
-https://github.com/user-attachments/assets/4e871767-f7e4-49fb-b9a7-4412adf6c1e0
-
-
