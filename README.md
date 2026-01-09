@@ -38,9 +38,7 @@ The dashboard **updates in real time based on selected filters (Department, Gend
 
 📈**Dashboard Preview:**
 
-![HR Analytics Dashboard Preview](HR-Dashboard.png)
-
-🎥**Dashboard Demo (Dynamic View):**
+[![Watch the demo](HR-Dashboard.png)](https://github.com/user-attachments/assets/4e871767-f7e4-49fb-b9a7-4412adf6c1e0)
 
 ----
 
@@ -76,3 +74,7 @@ Harshita Pandey
 Data Analyst | Excel | SQL | Python | Power BI
 
 ⭐ If you found this project valuable, consider starring the repository.
+
+https://github.com/user-attachments/assets/4e871767-f7e4-49fb-b9a7-4412adf6c1e0
+
+
